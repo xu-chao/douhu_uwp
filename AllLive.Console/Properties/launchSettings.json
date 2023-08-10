@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AllLive.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-i https://www.huya.com/660000"
+    }
+  }
+}
