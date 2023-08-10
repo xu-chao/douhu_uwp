@@ -11,7 +11,7 @@
     <Grid>
        
        
-        <muxc:NavigationView x:Name="navigationView"  IsSettingsVisible="False" PaneTitle="聚合直播" PaneDisplayMode="Top" SelectionChanged="NavigationView_SelectionChanged" IsBackButtonVisible="Collapsed">
+        <muxc:NavigationView x:Name="navigationView"  IsSettingsVisible="False" PaneTitle="斗虎直播" PaneDisplayMode="Top" SelectionChanged="NavigationView_SelectionChanged" IsBackButtonVisible="Collapsed">
             <muxc:NavigationView.AutoSuggestBox>
                 <AutoSuggestBox x:Name="searchBox" QuerySubmitted="searchBox_QuerySubmitted" QueryIcon="Find" PlaceholderText="输入链接或关键字" Width="180"  AutomationProperties.Name="Search"></AutoSuggestBox>
             </muxc:NavigationView.AutoSuggestBox>

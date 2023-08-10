@@ -5,7 +5,7 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AllLive.Avalonia.MainWindow"
         Background="#f8f8f8"
-        Title="聚合直播">
+        Title="斗虎直播">
   <Grid>
     <SplitView x:Name="splitView" PaneBackground="White" DisplayMode="Inline" IsPaneOpen="True" OpenPaneLength="160">
       <SplitView.Pane>

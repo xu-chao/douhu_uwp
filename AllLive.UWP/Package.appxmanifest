@@ -15,8 +15,8 @@
   <mp:PhoneIdentity PhoneProductId="a29ec443-66b9-4d8d-8fd1-ffa29cf08e96" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>聚合直播</DisplayName>
-    <PublisherDisplayName>逍遥橙子</PublisherDisplayName>
+    <DisplayName>斗虎直播</DisplayName>
+    <PublisherDisplayName>许小马达</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -33,10 +33,10 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="AllLive.UWP.App">
       <uap:VisualElements
-        DisplayName="聚合直播"
+        DisplayName="斗虎直播"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="聚合多个网站的直播"
+        Description="聚焦各大网站的直播"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square71x71Logo="Assets\SmallTile.png" Square310x310Logo="Assets\LargeTile.png" ShortName="聚合直播">
           <uap:ShowNameOnTiles>

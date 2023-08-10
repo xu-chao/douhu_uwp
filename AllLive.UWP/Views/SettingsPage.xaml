@@ -163,7 +163,7 @@
                       BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" 
                       CornerRadius="4">
                     <StackPanel VerticalAlignment="Center">
-                        <TextBlock>聚合直播</TextBlock>
+                        <TextBlock>斗虎直播</TextBlock>
                         <TextBlock FontSize="12" Foreground="Gray">版本: <Run x:Name="version"/></TextBlock>
                     </StackPanel>
                     <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Orientation="Horizontal">

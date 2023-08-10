@@ -40,7 +40,7 @@
                    Width="20" 
                    Height="20"/>
                 <Grid Grid.Column="2" Background="#00FFFFFF" >
-                    <TextBlock x:Name="Title"  Text="聚合直播" FontSize="12" VerticalAlignment="Center"  Margin="12 0"></TextBlock>
+                    <TextBlock x:Name="Title"  Text="斗虎直播" FontSize="12" VerticalAlignment="Center"  Margin="12 0"></TextBlock>
                 </Grid>
 
             </Grid>

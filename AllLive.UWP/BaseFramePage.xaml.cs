@@ -109,7 +109,7 @@ namespace AllLive.UWP
 
         private void MainFrame_Navigated(object sender, NavigationEventArgs e)
         {
-            Title.Text = "聚合直播";
+            Title.Text = "斗虎直播";
             AppIcon.Source = new BitmapImage(new Uri("ms-appx:///Assets/Square44x44Logo.png"));
             BtnBack.Visibility = MainFrame.CanGoBack ? Visibility.Visible : Visibility.Collapsed;
         }
